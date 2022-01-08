@@ -1,0 +1,893 @@
+[
+  {
+    "h1": "2.Shift + F3",
+    "p": "Otwiera okno Nodes.",
+    "gif": "url('gify/2.vid2.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "3.Shift + F4",
+    "p": "Otwiera okno Python Console.",
+    "gif": "url('gify/3.vid3.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "4.Shift + F5",
+    "p": "Otwiera okno 3D Viewport.",
+    "gif": "url('gify/4.vid4.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "5.Shift + F6",
+    "p": "Otwiera okno Graph.",
+    "gif": "url('gify/5.vid5.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "6.Shift + F7",
+    "p": "Otwiera okno Properties.",
+    "gif": "url('gify/6.vid6.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "7.Shift + F8",
+    "p": "Otwiera okno Video Sequencer.",
+    "gif": "url('gify/7.vid7.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "8.Shift + F9",
+    "p": "Otwiera okno Outliner.",
+    "gif": "url('gify/8.vid8.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "9.Shift + F10",
+    "p": "Otwiera okno UV/Image.",
+    "gif": "url('gify/9.vid9.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "10.Shift + F11",
+    "p": "Otwiera okno Text Editor.",
+    "gif": "url('gify/10.vid10.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "11.Shift + F12",
+    "p": "Otwiera okno Dope Sheet.",
+    "gif": "url('gify/11.vid11.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "12.G + X",
+    "p": "Pozwala na przesuwanie po osi X.",
+    "gif": "url('gify/12.vid12.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "13.G + Y",
+    "p": "Pozwala na przesuwanie po osi Y.",
+    "gif": "url('gify/13.vid13.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "14.G + Z",
+    "p": "Pozwala na przesuwanie po osi Z.",
+    "gif": "url('gify/14.vid14.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "15.X",
+    "p": "Usuwa obiekt. ",
+    "gif": "url('gify/15.vid15.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "16.H",
+    "p": "Ukrywa obiekt.",
+    "gif": "url('gify/16.vid16.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "17.Alt + H",
+    "p": "Odkrywa wszystkie ukryte obiekty. ",
+    "gif": "url('gify/17.vid17.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "18.S + a następnie X/Y/Z ",
+    "p": "Pozwala na skalowanie obiektu. ",
+    "gif": "url('gify/18.vid18.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "19.R i RR ",
+    "p": "Pojedyncze kliknięcie pozwala na obrót z perspektywy jaką patrzymy na obiekt, a podwójne na swobodne obracanie obiektu wzdłuż wszystkich osi. ",
+    "gif": "url('gify/19.vid19.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "20.R + X",
+    "p": "Obrót wzdłuż osi X. ",
+    "gif": "url('gify/20.vid20.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "21.R + Y",
+    "p": "Obrót wzdłuż osi Y. ",
+    "gif": "url('gify/21.vid21.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "22.R + Z",
+    "p": "Obrót wzdłuż osi Z. ",
+    "gif": "url('gify/22.vid22.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "23.Alt + G",
+    "p": "Reset przesunięcia obiektu. ",
+    "gif": "url('gify/23.vid23.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "24.Alt + R",
+    "p": "Reset rotacji obiektu. ",
+    "gif": "url('gify/24.vid24.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "25.Alt + S",
+    "p": "Reset skalowania obiektu. ",
+    "gif": "url('gify/25.vid25.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "26.Ctrl + +/-",
+    "p": "Zoom kamery lub jej oddalenie. ",
+    "gif": "url('gify/26.vid26.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "27.Ctrl +  N ",
+    "p": "Otwiera panel tworzenia nowego projektu. ",
+    "gif": "url('gify/27.vid27.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "28.Ctrl +  O ",
+    "p": "Otwiera panel otwierania projektu.",
+    "gif": "url('gify/28.vid28.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "29.Ctrl + strzałki przesuwania obiektu",
+    "p": "Obiekt będzie przesuwał się skokowo. ",
+    "gif": "url('gify/29.vid29.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "30.Ctrl + 0/1/2/3/4/5",
+    "p": "Zmiana poziomu Subdivision.",
+    "gif": "url('gify/30.vid30.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "31.Ctrl + C i Ctrl + V",
+    "p": "Skopiowanie i następne wklejenie obiektu.",
+    "gif": "url('gify/31.vid31.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "32.Ctrl + J",
+    "p": "Połączenie zaznaczonych obiektów w jeden.",
+    "gif": "url('gify/32.vid32.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "33.ŚPM ",
+    "p": "Obrót widoku.",
+    "gif": "url('gify/33.vid33.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "34.Shift + ŚPM ",
+    "p": "Przesuwanie swobodne kamery wzdłuż osi X i Y ekranu. ",
+    "gif": "url('gify/34.vid34.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "35.Shift + A",
+    "p": "Otwiera panel dodawania obiektów.",
+    "gif": "url('gify/35.vid35.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "36.Shift + ~",
+    "p": "Włączenie tryby „latania” kamery. ",
+    "gif": "url('gify/36.vid36.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "37.N ",
+    "p": "Włączenie okna właściwości.",
+    "gif": "url('gify/37.vid37.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "38.Shift + B ",
+    "p": "Narzędzie do zoomowania kamery. ",
+    "gif": "url('gify/38.vid38.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "39.Shift + H",
+    "p": "Ukrycie wszystkich obiektów poza zaznaczonymi. ",
+    "gif": "url('gify/39.vid39.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "40.Shift + D",
+    "p": "Duplikowanie obiektu i automatyczne włączenie jego swobodnego przemieszczania po wszystkich osiach. ",
+    "gif": "url('gify/40.vid40.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "41.Shift i przeciągniecie LPM",
+    "p": "Zaznaczenie obiektów w obszarze jego działania.",
+    "gif": "url('gify/41.vid41.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "42.T ",
+    "p": "Pokazania/Schowanie Toolbara.",
+    "gif": "url('gify/42.vid42.gif')",
+    "tags": [
+      "wszystkie",
+      "ogolne"
+    ]
+  },
+  {
+    "h1": "43.1 ",
+    "p": "Tryb manipulacji wierzchołkami.",
+    "gif": "url('gify/43.vid43.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "44.2 ",
+    "p": "Tryb manipulacji krawędziami.",
+    "gif": "url('gify/44.vid44.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "45.3",
+    "p": "Tryb manipulacji ścianami.",
+    "gif": "url('gify/45.vid45.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "46.Ctrl + B",
+    "p": "Dodanie otaczających krawędzi do zaznaczonej. Skantowanie krawędzi. ",
+    "gif": "url('gify/46.vid46.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "47.Ctrl + E ",
+    "p": "Otworzenie panelu krawędzi.",
+    "gif": "url('gify/47.vid47.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "48.Ctrl + F ",
+    "p": "Otworzenie panelu ścian.",
+    "gif": "url('gify/48.vid48.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "49.Ctrl + V ",
+    "p": "Otworzenie panelu wierzchołków.",
+    "gif": "url('gify/49.vid49.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "50.Ctrl + T( w trybie edycji ścian)",
+    "p": "Podział ściany na trójkąty. ",
+    "gif": "url('gify/50.vid50.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "51.C ",
+    "p": "Tryb zaznaczania kołowego. ",
+    "gif": "url('gify/51.vid51.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "52.M",
+    "p": "Złączenie, które w zależności od trybu, w którym pracujemy(Wierzchołki, Krawędzie , Ściany) połączy je ze sobą i zastąpi jednym. ",
+    "gif": "url('gify/52.vid52.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "53.O",
+    "p": "Włączenie/Wyłączenie tryby proporcjonalnego. ",
+    "gif": "url('gify/53.vid53.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "54.E",
+    "p": "Ekstrakcja zaznaczenia.",
+    "gif": "url('gify/54.vid54.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "55.F ",
+    "p": "Wypełnienie pomiędzy zaznaczeniami. ",
+    "gif": "url('gify/55.vid55.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "56.K",
+    "p": "Tryb Noża, który pozwala ciąć ściany na dodając do nich krawędzie. ",
+    "gif": "url('gify/56.vid56.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "57.P",
+    "p": "Wyeksportowanie zaznaczenia do nowego obiektu.",
+    "gif": "url('gify/57.vid57.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "58.S",
+    "p": "Skalowanie zaznaczenia. ",
+    "gif": "url('gify/58.vid58.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "59.Shift – N ",
+    "p": "Przeliczenie normalnych.",
+    "gif": "url('gify/59.vid59.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "60.Shift + W",
+    "p": "Pochylanie zaznaczenia.",
+    "gif": "url('gify/60.vid60.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "61.S + X",
+    "p": "Skalowanie wzdłuż osi X.",
+    "gif": "url('gify/61.vid61.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "62.S + Y",
+    "p": "Skalowanie wzdłuż osi Y.",
+    "gif": "url('gify/62.vid62.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "63.S + Z",
+    "p": "Skalowanie wzdłuż osi Z.",
+    "gif": "url('gify/63.vid63.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "64.TAB ",
+    "p": "Włączenie/Wyłączenie trybu edycji.",
+    "gif": "url('gify/64.vid64.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "65.V",
+    "p": "Rozerwanie obiektu w miejscu zaznaczenia.",
+    "gif": "url('gify/65.vid65.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "66.Y",
+    "p": "Oderwanie zaznaczenia od obiektu. ",
+    "gif": "url('gify/66.vid66.gif')",
+    "tags": [
+      "wszystkie",
+      "edit"
+    ]
+  },
+  {
+    "h1": "67.Shift + Space ",
+    "p": "Włączenie panelu do wyboru typu pędzla.",
+    "gif": "url('gify/67.vid67.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "68.X",
+    "p": "Pędzel rysujący.",
+    "gif": "url('gify/68.vid68.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "69.F ",
+    "p": "Edycja rozmiaru pędzla. ",
+    "gif": "url('gify/69.vid69.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "70.Shift + F",
+    "p": "Edycja siły pędzla.",
+    "gif": "url('gify/70.vid70.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "71.B ",
+    "p": "Dodawanie maski(box).",
+    "gif": "url('gify/71.vid71.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "72.M",
+    "p": "Pędzel maskujący",
+    "gif": "url('gify/72.vid72.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "73.Alt + M",
+    "p": "Wyczyszczenie maski.",
+    "gif": "url('gify/73.vid73.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "74.E",
+    "p": "Kontrola metody działania pędzla. ",
+    "gif": "url('gify/74.vid74.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "75.Shift + C ",
+    "p": "Tryb żłobienia. ",
+    "gif": "url('gify/75.vid75.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "76.Shift + T ",
+    "p": "Tryb wygładzania.",
+    "gif": "url('gify/76.vid76.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "77.Shift + H",
+    "p": "Ukrywanie obiektu.",
+    "gif": "url('gify/77.vid77.gif')",
+    "tags": [
+      "wszystkie",
+      "sculpting"
+    ]
+  },
+  {
+    "h1": "78.Alt + N ",
+    "p": "Otwarcie panelu tworzenia nowego obrazu.",
+    "gif": "url('gify/78.vid78.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "79.Alt + O",
+    "p": "Otwieranie nowego obrazu.",
+    "gif": "url('gify/79.vid79.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "80.N( w trybie View).",
+    "p": "Okno właściwości.",
+    "gif": "url('gify/80.vid80.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "81.F",
+    "p": "Edycja rozmiaru pędzla.",
+    "gif": "url('gify/81.vid81.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "82.N(w trybie Paint)",
+    "p": "Okno właściwości pędzla. ",
+    "gif": "url('gify/82.vid82.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "83.S ",
+    "p": "Pobranie koloru.",
+    "gif": "url('gify/83.vid83.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "84.Shift + F",
+    "p": "Edycja siły pędzla. ",
+    "gif": "url('gify/84.vid84.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "85.X",
+    "p": "Zmiana pomiędzy kolorami( pierwszoplanowym i drugoplanowym).",
+    "gif": "url('gify/85.vid85.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "86.Shift + Space ",
+    "p": "Okno wyboru trybu.",
+    "gif": "url('gify/86.vid86.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "87.Shift + Alt + S",
+    "p": "Zapis jako nowy obraz.",
+    "gif": "url('gify/87.vid87.gif')",
+    "tags": [
+      "wszystkie",
+      "image"
+    ]
+  },
+  {
+    "h1": "88.Space ",
+    "p": "Włączenie/Wyłączenie odtwarzania animacji.",
+    "gif": "url('gify/88.vid88.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "89.I (W oknie Layout)",
+    "p": "Otwarcie panelu dodawania klatki kluczowej.",
+    "gif": "url('gify/89.vid89.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "90.M",
+    "p": "Dodanie znacznika do animacji.",
+    "gif": "url('gify/90.vid90.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "91.Ctrl + M ( z zaznaczoną klatką kluczową)",
+    "p": "Panel odbijania lustrzanego klatki kluczowej.",
+    "gif": "url('gify/91.vid91.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "92.Alt + ŚPM",
+    "p": "Przewijanie animacji.",
+    "gif": "url('gify/92.vid92.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "93.Strzałki Góra/Dół",
+    "p": "Przeskakiwanie między klatkami kluczowymi.",
+    "gif": "url('gify/93.vid93.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "94.Strzałki Lewa/Prawa",
+    "p": "Przeskakiwanie między klatkami rzeczywistymi. ",
+    "gif": "url('gify/94.vid94.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "95.Ctrl + Strzałki Lewa/Prawa",
+    "p": "Przeskakiwanie między pierwszą, a ostatnią klatką kluczową.",
+    "gif": "url('gify/95.vid95.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "96.Ctrl + M( z zaznaczonym markerem)",
+    "p": "Edycja znacznika.",
+    "gif": "url('gify/96.vid96.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "97.Ctrl + Shift + Space",
+    "p": "Odtwarzanie animacji od tyłu. ",
+    "gif": "url('gify/97.vid97.gif')",
+    "tags": [
+      "wszystkie",
+      "dope sheet"
+    ]
+  },
+  {
+    "h1": "98.F12",
+    "p": "Renderowanie sceny",
+    "gif": "url('gify/98.vid98.gif')",
+    "tags": [
+      "wszystkie",
+      "render"
+    ]
+  },
+  {
+    "h1": "99.Ctrl + B",
+    "p": "Wyznaczanie obszaru do wyrenderowania.",
+    "gif": "url('gify/99.vid99.gif')",
+    "tags": [
+      "wszystkie",
+      "render"
+    ]
+  },
+  {
+    "h1": "100.Ctrl + Alt + B",
+    "p": "Usuwanie zaznaczenia obszaru do renderowania. ",
+    "gif": "url('gify/100.vid100.gif')",
+    "tags": [
+      "wszystkie",
+      "render"
+    ]
+  }
+]
